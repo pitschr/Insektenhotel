@@ -19,11 +19,17 @@ Das Insektenhotel leistet einen wichtigen Betrag zur Natur indem wir die Insekte
 ## Planung, Dimensionen und Kosten
 Das Insektenhotel wurde mit FreeCAD (https://www.freecad.org/) geplant und beim Holz habe ich stets geachtet, dass das Holz unlackiert und wasserfest geleimt sind und hauptsächlich aus Bambusröhre besteht. Ihr könnt natürlich eure Kammern mit andere Materialien füllen, aber ich empfehle euch vorgängig zu informieren, was wirklich für die Insekten sinnvoll sind und was zu beachten wäre.
 
-Die Länge beträgt *??? mm*, die Breite *??? mm* und die Tiefe *??? mm*. Gefüllt mit *??? Bambusröhren*. Die üblichen Materialien wie Holz, Dübeln findet ihr bei euren Baumärkten (Jumbo, Hornbach, Obi, ...). Die Mini-Dachschindeln habe ich auf der Webseite https://mini-dachschindeln-shop.de bestellt. Die Bambusröhre habe ich in grosse Mengen bei Amazon bestellt und Jeff Bezos somit zu seiner weiteren Milliarde verholfen. Also keine Hexerei und keine geheime Verkaufskanäle meinerseits.
+Die Länge beträgt *??? mm*, die Breite *??? mm* und die Tiefe *??? mm*. Gefüllt mit ca *1300 Bambusröhren*. Die üblichen Materialien wie Holz, Dübeln findet ihr bei euren Baumärkten (Jumbo, Hornbach, Obi, ...). Die Mini-Dachschindeln habe ich auf der Webseite https://mini-dachschindeln-shop.de bestellt. Die Bambusröhre habe ich in grosse Mengen bei Amazon bestellt und Jeff Bezos somit zu seiner weiteren Milliarde verholfen. Also keine Hexerei und keine geheime Verkaufskanäle meinerseits.
 
-Für das Material habe ich ungefähr *??? CHF* (*??? EUR*) ausgegeben, also wesentlich teurer als ein fertiges Insektenhotel, aber dafür mit Liebe und hoher Qualität 🥰
+Für das Material habe ich ungefähr *200 CHF* (*??? EUR*) ausgegeben, also wesentlich teurer als ein fertiges Insektenhotel, aber dafür mit Liebe und hoher Qualität 🥰
 
 ## Dateien: Pläne
+
+Die Datei wurde mit FreeCAD 0.19 erstellt.
+
+TODO
+
+## 3D Ansicht
 
 TODO
 
