@@ -32,7 +32,7 @@ Lizenz ist [CC0 1.0 Universell - Public Domain Dedication](https://creativecommo
 ## Druckvorlagen
 
 Wer keine Änderung vornehmen und nicht mit FreeCAD arbeiten möchte, kann gerne die fix und fertige Vorlagen herunterladen und ausdrucken:
-* [Rückenwand](<Druckvorlagen/01 Rückenwand.pdf>)
+* [Rückenwand](<Druckvorlagen/01 Rückenwand.pdf>)
 * [Seite](<Druckvorlagen/02 Seite.pdf>)
 * [Boden](<Druckvorlagen/03 Boden.pdf>)
 * [Dach](<Druckvorlagen/04 Dach.pdf>)
