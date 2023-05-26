@@ -1,27 +1,27 @@
 # Insektenhotel
 
 ## Motivation
-Wir leben in einem Zeitalter, wo die Gärten oft penibel angelegt und aufgeräumt sind. Rasenabfälle, Laubreste oder Schnitte von Sträuchen  und Bäumen werden gleich entsorgt. Die Folge ist, dass die Lebensräume für die nützlichen Insekten verloren gehen. Die Insekten haben somit immer schwerer geeignete Plätze zum Nisten oder Überwintern zu finden.
+Wir leben in einem Zeitalter, wo die Gärten oft penibel angelegt und aufgeräumt sind. Rasenabfälle, Laubreste oder Schnitte von Sträuchern und Bäumen werden gleich entsorgt. Die Folge ist, dass die Lebensräume für die nützlichen Insekten verloren gehen. Die Insekten haben es somit immer schwerer geeignete Plätze zum Nisten oder Überwintern zu finden.
 
 Ein Grossteil der Pflanzen sind auf die Bestäubung durch die Insekten angewiesen. Einige Nahrungsmittel wären gar nicht verfügbar, da eine grössere Gleichmässigkeit und eine höhere Ernte nicht mehr möglich wäre. Die Folge wären dann die Monokulturen und intensive Bekämpfung durch Pestizide. Zudem würde es auch zahlreiche Tier- und Pflanzenarten nicht mehr geben.
 
-Es gibt viele Insektenhotel aus hiesigen Baumärkten, die eher für die Menschen (sprich: KäuferInnen) gebaut sind als für die Insekten selber. Um einige Beispiele zu nennen:
-* Tannenzäpfe sind gute Lückenfüller aber für die Insekten nutzlos
+Es gibt viele Insektenhotels aus hiesigen Baumärkten, die eher für die Menschen (sprich: KäuferInnen) gebaut sind, als für die Insekten selber. Um einige Beispiele zu nennen:
+* Tannenzapfen sind gute Lückenfüller aber für die Insekten nutzlos
 * Die Bambus / Hohlräume sind nicht sauber verarbeitet
 * Holz wurde chemisch behandelt bzw. gefärbt
 * Ungeeignet für Florfliegen; Kammer ist zu klein
 * Schlitze für die Schmetterlinge bleiben ungenutzt
 
-Die meisten Informationen was zu beachten zu wären könnte einen wahrlich "erschlagen". Zum Glück gibt es einige Webseiten die klipp und klar aufzeigen was "Sinn" und was "Unsinn" ist. Beispiele: https://insektenhotels.net und https://www.naturgartenfreude.de
+Die meisten Informationen, die zu beachten zu wären, könnten einen wahrlich "erschlagen". Zum Glück gibt es einige Webseiten die klipp und klar aufzeigen was "Sinn" und was "Unsinn" ist. Beispiele: https://insektenhotels.net und https://www.naturgartenfreude.de
 
-Das Insektenhotel leistet einen wichtigen Betrag zur Natur indem wir die Insekten ein Zuhause für alle Jahreszeiten geben. Zudem sind die Insekten auch sehr interessant für die Kleinen und die Grossen. Das sind meine Motivationen ein wirklich insektenfreundliches Hotel zu planen, zu bauen und in meinem Garten aufzustellen.
+Das Insektenhotel leistet einen wichtigen Beitrag zur Natur indem wir den Insekten ein Zuhause für alle Jahreszeiten geben. Zudem sind die Insekten auch sehr interessant für die Kleinen und die Grossen. Das sind meine Motivationen ein wirklich insektenfreundliches Hotel zu planen, zu bauen und in meinem Garten aufzustellen.
 
 ## Planung, Dimension und Kosten
-Das Insektenhotel wurde mit FreeCAD (https://www.freecad.org/) geplant. Die Länge beträgt *680 mm*, die Breite *470 mm* und die Tiefe *230 mm*. Beim Holz habe ich geachtet, dass es unlackiert und wasserfest geleimt ist. Die Füllung besteht hauptsächlich aus Bambusröhrchen; knapp *1300* Stück.
+Das Insektenhotel wurde mit FreeCAD (https://www.freecad.org/) geplant. Die Länge beträgt *680 mm*, die Breite *470 mm* und die Tiefe *230 mm*. Beim Holz habe ich darauf geachtet, dass es unlackiert und wasserfest verleimt ist. Die Füllung besteht hauptsächlich aus Bambusröhrchen; knapp *1300* Stück.
 
-Die üblichen Materialien wie Holz, Dübeln findet ihr bei euren Baumärkten (Jumbo, Hornbach, Obi, ...). Die Mini-Dachschindeln habe ich auf der Webseite https://mini-dachschindeln-shop.de bestellt. Die Bambusröhre habe ich in grosse Mengen bei Amazon bestellt.
+Die üblichen Materialien wie Holz, Dübel findet ihr bei euren Baumärkten (Jumbo, Hornbach, Obi, ...). Die Mini-Dachschindeln habe ich auf der Webseite https://mini-dachschindeln-shop.de bestellt. Die Bambusröhrchen habe ich in grosser Mengen bei Amazon bestellt.
 
-Für das Material habe ich knapp *230 CHF* ausgegeben, also wesentlich teurer als ein fertiges Insektenhotel, aber dafür mit Liebe und hoher Qualität 🥰 . Spass hat es zudem gemacht und die Kinder haben auch mitgeholfen!
+Für das Material habe ich knapp *230 CHF* ausgegeben, also wesentlich teurer als ein fertiges Insektenhotel, aber dafür mit Liebe und hoher Qualität gebaut 🥰 . Spass hat es zudem gemacht und meine Kinder haben auch mitgeholfen!
 
 ## Plan
 
@@ -31,8 +31,8 @@ Lizenz ist [CC0 1.0 Universell - Public Domain Dedication](https://creativecommo
 
 ## Druckvorlagen
 
-Wer keine Änderung vornehmen und nicht mit FreeCAD arbeiten möchte, kann gerne die fix und fertige Vorlagen herunterladen und ausdrucken:
-* [Rückenwand](<Druckvorlagen/01 Rückenwand.pdf>)
+Wer keine Änderung vornehmen und nicht mit FreeCAD arbeiten möchte, kann gerne die fix und fertigen Vorlagen herunterladen und ausdrucken:
+* [Rückwand](<Druckvorlagen/01 Rückwand.pdf>)
 * [Seite](<Druckvorlagen/02 Seite.pdf>)
 * [Boden](<Druckvorlagen/03 Boden.pdf>)
 * [Dach](<Druckvorlagen/04 Dach.pdf>)
