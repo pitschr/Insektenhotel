@@ -32,7 +32,7 @@ Lizenz ist [CC0 1.0 Universell - Public Domain Dedication](https://creativecommo
 ## Druckvorlagen
 
 Wer keine Änderung vornehmen und nicht mit FreeCAD arbeiten möchte, kann gerne die fix und fertigen Vorlagen herunterladen und ausdrucken:
-* [Rückwand](<Druckvorlagen/01 Rückwand.pdf>)
+* [Rückwand](<Druckvorlagen/01 Rueckwand.pdf>)
 * [Seite](<Druckvorlagen/02 Seite.pdf>)
 * [Boden](<Druckvorlagen/03 Boden.pdf>)
 * [Dach](<Druckvorlagen/04 Dach.pdf>)
@@ -42,26 +42,26 @@ Wer keine Änderung vornehmen und nicht mit FreeCAD arbeiten möchte, kann gerne
 
 ## 3D Ansicht
 
-<img src="https://github.com/pitschr/Insektenhotel/blob/main/3D%20Ansicht/01%20Vorne.png" width="45%" />
-<img src="https://github.com/pitschr/Insektenhotel/blob/main/3D%20Ansicht/02%20Vorne%20mit%20Einteilung.png" width="45%" />
-<img src="https://github.com/pitschr/Insektenhotel/blob/main/3D%20Ansicht/03%20Seite.png" width="45%" />
-<img src="https://github.com/pitschr/Insektenhotel/blob/main/3D%20Ansicht/04%20Hinten.png" width="45%" />
-<img src="https://github.com/pitschr/Insektenhotel/blob/main/3D%20Ansicht/05%20Unten.png" width="45%" />
+<img src="https://github.com/pitschr/Insektenhotel/blob/main/3D%20Ansicht/01%20Vorne.png" width="60%" />
+<img src="https://github.com/pitschr/Insektenhotel/blob/main/3D%20Ansicht/02%20Vorne%20mit%20Einteilung.png" width="60%" />
+<img src="https://github.com/pitschr/Insektenhotel/blob/main/3D%20Ansicht/03%20Seite.png" width="60%" />
+<img src="https://github.com/pitschr/Insektenhotel/blob/main/3D%20Ansicht/04%20Hinten.png" width="60%" />
+<img src="https://github.com/pitschr/Insektenhotel/blob/main/3D%20Ansicht/05%20Unten.png" width="60%" />
 
 ## Fotos
 
-<img src="https://github.com/pitschr/Insektenhotel/blob/main/Fotos/001.jpg" width="45%" />
-<img src="https://github.com/pitschr/Insektenhotel/blob/main/Fotos/002.jpg" width="45%" />
-<img src="https://github.com/pitschr/Insektenhotel/blob/main/Fotos/003.jpg" width="45%" />
-<img src="https://github.com/pitschr/Insektenhotel/blob/main/Fotos/004.jpg" width="45%" />
-<img src="https://github.com/pitschr/Insektenhotel/blob/main/Fotos/005.jpg" width="45%" />
-<img src="https://github.com/pitschr/Insektenhotel/blob/main/Fotos/006.jpg" width="45%" />
-<img src="https://github.com/pitschr/Insektenhotel/blob/main/Fotos/007.jpg" width="45%" />
-<img src="https://github.com/pitschr/Insektenhotel/blob/main/Fotos/008.jpg" width="45%" />
-<img src="https://github.com/pitschr/Insektenhotel/blob/main/Fotos/009.jpg" width="45%" />
-<img src="https://github.com/pitschr/Insektenhotel/blob/main/Fotos/010.jpg" width="45%" />
-<img src="https://github.com/pitschr/Insektenhotel/blob/main/Fotos/011.jpg" width="45%" />
-<img src="https://github.com/pitschr/Insektenhotel/blob/main/Fotos/012.jpg" width="45%" />
-<img src="https://github.com/pitschr/Insektenhotel/blob/main/Fotos/013.jpg" width="45%" />
-<img src="https://github.com/pitschr/Insektenhotel/blob/main/Fotos/014.jpg" width="45%" />
-<img src="https://github.com/pitschr/Insektenhotel/blob/main/Fotos/015.jpg" width="45%" />
+<img src="https://github.com/pitschr/Insektenhotel/blob/main/Fotos/001.jpg" width="60%" />
+<img src="https://github.com/pitschr/Insektenhotel/blob/main/Fotos/002.jpg" width="60%" />
+<img src="https://github.com/pitschr/Insektenhotel/blob/main/Fotos/003.jpg" width="60%" />
+<img src="https://github.com/pitschr/Insektenhotel/blob/main/Fotos/004.jpg" width="60%" />
+<img src="https://github.com/pitschr/Insektenhotel/blob/main/Fotos/005.jpg" width="60%" />
+<img src="https://github.com/pitschr/Insektenhotel/blob/main/Fotos/006.jpg" width="60%" />
+<img src="https://github.com/pitschr/Insektenhotel/blob/main/Fotos/007.jpg" width="60%" />
+<img src="https://github.com/pitschr/Insektenhotel/blob/main/Fotos/008.jpg" width="60%" />
+<img src="https://github.com/pitschr/Insektenhotel/blob/main/Fotos/009.jpg" width="60%" />
+<img src="https://github.com/pitschr/Insektenhotel/blob/main/Fotos/010.jpg" width="60%" />
+<img src="https://github.com/pitschr/Insektenhotel/blob/main/Fotos/011.jpg" width="60%" />
+<img src="https://github.com/pitschr/Insektenhotel/blob/main/Fotos/012.jpg" width="60%" />
+<img src="https://github.com/pitschr/Insektenhotel/blob/main/Fotos/013.jpg" width="60%" />
+<img src="https://github.com/pitschr/Insektenhotel/blob/main/Fotos/014.jpg" width="60%" />
+<img src="https://github.com/pitschr/Insektenhotel/blob/main/Fotos/015.jpg" width="60%" />
